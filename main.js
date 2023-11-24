@@ -77,6 +77,7 @@ return;
 }
 
 
+
 if ([...celulas].every((celula) => celula.textContent !== "")) {
 jogoAcabou = true;
 alert("Empate!");
